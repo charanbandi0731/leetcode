@@ -1,0 +1,8 @@
+int power(int n,float a);
+        float a;
+        scanf("%f",&a);
+        int n;
+        scanf("%d",&n);
+        float res=pow(a,n);
+       return res;
+}
